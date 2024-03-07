@@ -1,11 +1,8 @@
 ---
 aliases:
-  - index
+  - Welcome!
 created: 07/03/2024
 ---
-
-# Welcome
-
 Hi, i'm Damon a Bioinformatician in the [[Tree of Life Project]] at Sanger, UK. In my role, I develop programs/websites and pipelines using Python, Rust, Nextflow and a bit of JavaScript to generate data to support genome assembly and curation.
 
 Currently, some of the major projects I am working on are [[TreeVal]], [[ASCC]] and a handful of others. I am also the organiser for [The Biodiversity Genomics Academy](thebgacademy.org), a **Free and Open education** platform for aspiring bioinformaticians.
