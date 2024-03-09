@@ -2,6 +2,7 @@
 aliases:
   - Welcome!
 created: 07/03/2024
+title: Welcome!
 ---
 
 Hi, i'm Damon a Bioinformatician in the [Tree of Life Project](https://www.sanger.ac.uk/programme/tree-of-life/) (also found [here](https://www.darwintreeoflife.org/)) at Sanger, UK. In my role, I develop programs/websites and pipelines using Python, Rust, Nextflow and a bit of JavaScript to generate data to support genome assembly and curation.
