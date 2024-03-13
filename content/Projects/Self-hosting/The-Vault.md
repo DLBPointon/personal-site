@@ -5,6 +5,7 @@ tags:
   - project
   - self-hosting
   - docker
+  - raspberry-pi
 ---
 This is my self-hosting pet project and has gone through two iterations so far. The first (OpenMediaVault 5 on a Raspberry Pi 4 4GB) just kinda died, it was shutdown for a while and when I went to wake it up... nothing. That was a _great_ morning. Thankfully nothing was lost and I was able to plug the external HHD into The Vault and everything was pretty much where I left it.
 
