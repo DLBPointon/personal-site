@@ -21,7 +21,7 @@ This Pi will also be running:
 | Airsonic  | Music and Podcast server    | 4040            |
 | PiHole    | Advert blocking             | Not Yet Running |
 | Kavita    | Comic, Book and PDF viewer  | 5000            |
-*Plex* - hit the hay after hitting what appeared to be a limit on it's internal database, apparently a few thousand entries was it's limit. I have seen people with larger libraries though so i'm going to say this was the Pi's fault, especially after finding the same error with Jellyfin. Emby is a good replacement for now but, thanks for their need to try and promote their premium service, i'll be moving to Jellyfin when iteration 3 gets off the ground!
+*Plex* and *Jellyfin* - hit the hay after hitting what appeared to be a limit on it's internal database, apparently a few thousand entries was the limit. I have seen people with larger libraries though so i'm going to say this was the Pi's fault, especially after finding the same error with Jellyfin. Emby is a good replacement for now but, thanks for their need to try and promote their premium service, i'll be moving to Jellyfin when iteration 3 gets off the ground!
 ## Hardware
 Nothing massively fancy here.
 
@@ -33,4 +33,4 @@ Nothing massively fancy here.
 | Seagate external drive | 10TB                                        |
 | WD external drive*     | 4TB                                         |
 | Netgear Wifi Extender  | 5 Port 1GB extender use for all pi projects |
-*WD Drive* is something like 14 years old at this point and still runs like an absolute champ. It will need replacing though, that's a bit too long for comfort.
+*WD Drive* is something like 14 years old at this point and still runs like an absolute champ. It will need replacing though, that's a bit too old for comfort.
