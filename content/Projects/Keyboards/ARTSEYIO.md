@@ -1,6 +1,14 @@
-#kmk #keyboard #Y2024 
-
-GitHub: https://github.com/DLBPointon/kmk-artseyio/tree/main
+---
+title: ARTSEYIO - Paintbrush
+tags:
+  - keyboard
+  - kmk
+  - python
+  - Y2024
+created: 01/04/2024
+github: https://github.com/DLBPointon/kmk-artseyio
+---
+GitHub: https://github.com/DLBPointon/kmk-artseyio
 
 I have recently set up my PC for dual-booting. Currently, just Windows 11 and Pop OS. The issue is that the choice between OS's is before Bluetooth initialisation and I don't want to plug my [[Sofle]] in all the time.
 

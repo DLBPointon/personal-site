@@ -1,4 +1,13 @@
-#project #forge #sword #Y2022 #Amy
+---
+title: "Amy's Sword"
+tags:
+  - project
+  - forge
+  - Y2023
+  - Amy
+  - Sword
+created: 23/03/2024
+---
 
 ## Amy
 In November 2022, we got a phone call at about 6:30 (whilst putting our daughter to bed) from a friend. His brother had come across a crash site and, along with an amazing group of people, found my wife's sister. She had been forced off of her bike and killed by someone who doesn't deserve the forgiveness that the Justice system has given.

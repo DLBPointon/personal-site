@@ -1,5 +1,12 @@
-#keyboard #zmk #Y2024
-
+---
+title: Sof
+tags:
+  - keyboard
+  - zmk
+  - Y2024
+created: 23/03/2024
+github: https://github.com/DLBPointon/zmk-config-sof
+---
 GitHub: [zmk-config-sof](https://github.com/DLBPointon/zmk-config-sof)
 
 After [[WAKeyboard]] and before my Sofle returned from the builder, I decided to try and build another Sofle. Why not?
