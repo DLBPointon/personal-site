@@ -1,0 +1,1 @@
+An automated de-contamination pipeline written in Nextflow to NF-Core standards.

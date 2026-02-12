@@ -1,0 +1,1 @@
+I've been obsessed with _lore_ for a looong time, stories of how worlds work, their mythologies, their cultures and just generally their people. Farrow is an attempt at my own world building.

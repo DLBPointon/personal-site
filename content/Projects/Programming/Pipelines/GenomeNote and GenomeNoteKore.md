@@ -1,0 +1,1 @@
+The GenomeNote Project is an attempt to create a universal note system for genomic assemblies, detailing the organism, assembly statistics and more.

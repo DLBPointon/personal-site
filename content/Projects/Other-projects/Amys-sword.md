@@ -31,7 +31,12 @@ I helped her get into college (which she failed on purpose, little sh\*t), I've 
 
 You'll be sorely missed.
 
-## RoadPeace
-So if anyone, other than my wife and daughter, ever reads this. Think about supporting [RoadPeace](https://www.roadpeace.org/), the national charity for road crash victims. They do amazing work on campaigning to make sure that real justice is given out by our justice system.
+## ~~RoadPeace~~
+~~So if anyone, other than my wife and daughter, ever reads this. Think about supporting [RoadPeace](https://www.roadpeace.org/), the national charity for road crash victims. They do amazing work on campaigning to make sure that real justice is given out by our justice system.~~
 
-Here is how they do it: https://www.roadpeace.org/working-for-change/
+~~Here is how they do it: link  
+
+## Awkward
+RoadPeace as of 9th Feb 2026 has shut down, I was on the Rescue team for a bit, but it was screwed. Screwed from it's very foundation kind of screwed.
+
+I will leave some notes here as to not mess up this page [[RoadPeace]]

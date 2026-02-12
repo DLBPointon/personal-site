@@ -7,9 +7,12 @@ tags:
   - docker
   - raspberry-pi
 ---
+The vault was succeeded by: [[Chunk]]
+
 This is my self-hosting pet project and has gone through two iterations so far. The first (OpenMediaVault 5 on a Raspberry Pi 4 4GB) just kinda died, it was shutdown for a while and when I went to wake it up... nothing. That was a _great_ morning. Thankfully nothing was lost and I was able to plug the external HHD into The Vault and everything was pretty much where I left it.
 
 Anyhow, The Vault is a Raspberry Pi 4 (4GB) running OpenMediaVault 6. OMV is pretty good and I don't know if it would really be beneficial to switch to something like TrueNAS.
+
 ## Services
 This Pi will also be running:
 
@@ -21,7 +24,10 @@ This Pi will also be running:
 | Airsonic  | Music and Podcast server    | 4040            |
 | PiHole    | Advert blocking             | Not Yet Running |
 | Kavita    | Comic, Book and PDF viewer  | 5000            |
-*Plex* and *Jellyfin* - hit the hay after hitting what appeared to be a limit on it's internal database, apparently a few thousand entries was the limit. I have seen people with larger libraries though so i'm going to say this was the Pi's fault, especially after finding the same error with Jellyfin. Emby is a good replacement for now but, thanks for their need to try and promote their premium service, i'll be moving to Jellyfin when iteration 3 gets off the ground!
+*Plex* and *Jellyfin* - hit the hay after hitting what appeared to be a limit on it's internal database, apparently a few thousand entries was the limit. I have seen people with larger libraries though so i'm going to say this was the Pi's fault, especially after finding the same error with Jellyfin. 
+
+Emby is a good replacement for now but, thanks for their need to try and promote their premium service, i'll be moving to Jellyfin when iteration 3 gets off the ground!
+
 ## Hardware
 Nothing massively fancy here.
 

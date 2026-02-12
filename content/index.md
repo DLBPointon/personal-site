@@ -5,15 +5,17 @@ created: 07/03/2024
 title: Welcome!
 github:
 ---
-Hi, i'm Damon a Bioinformatician in the [Tree of Life Project](https://www.sanger.ac.uk/programme/tree-of-life/) (also found [here](https://www.darwintreeoflife.org/)) at Sanger, UK. In my role I develop programs, websites and pipelines using (mostly) Python, Rust, Nextflow and a bit of JavaScript to generate data that supports genome assembly and curation.
+Hi, i'm Damon a Bioinformatician in the [Tree of Life Project](https://www.sanger.ac.uk/programme/tree-of-life/) (also found [here](https://www.darwintreeoflife.org/)) at The Wellcome Sanger Institute, UK. In my role I develop programs, websites and pipelines using (mostly) Python, Rust, Nextflow and a bit of JavaScript to generate data that supports genome assembly and curation.
 
-Currently, some of the major projects I am working on are [[TreeVal]], [[ASCC]] and a handful of others. I am also the organiser for [The Biodiversity Genomics Academy](thebgacademy.org), a **Free and Open education** platform for aspiring bioinformaticians.
+Currently, some of the major projects I am working on are [[TreeVal]], [[ASCC]] and a handful of others. I am also the organiser for [The Biodiversity Genomics Academy](thebgacademy.org), a **Free and Open education** platform for aspiring and experienced bioinformaticians.
 
-I am a bit of an wanna-be polyglot, I try to learn enough about a wide range of topics so that I can do it myself. A couple of examples include, learning how to [[Amys-sword|forge a sword]], [[WAKeyboard|design and build a keyboard]] and [[The-Vault|self-hosting]]. 
+I am a bit of an wanna-be polyglot, I try to learn enough about a wide range of topics so that I can do it all myself. A couple of examples include, learning how to [[Amys-sword|forge a sword]], [[WAKeyboard|design and build a keyboard]], [[The-Vault|self-hosting]] as well as a whole host of programming stuff. 
 
 As a note, this is just a collection of things and thoughts I'm not intending it to be anything special and these may come across a train of thought.
 
 Have fun reading!
+
+As a note, just in case it ever comes up. All views expressed on here, unless explicitly stated, are my own and not the views of my employer. This is a site for me to just be weird.
 
 ---
 ## Latest stuff
