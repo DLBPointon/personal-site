@@ -20,4 +20,7 @@ As a note, just in case it ever comes up. All views expressed on here, unless ex
 ---
 ## Latest stuff
 
+### July 2026
+- [[BirthTraumaWeek2026 | Birth Trauma Week 2026]]
+
 ADD TEMPLATER + DATAVIEW MARKDOWN TABLE for latest items i've written. 
